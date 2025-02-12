@@ -1,8 +1,6 @@
 # **Leaflet Earthquake Visualization Challenge**
 
-This project applies **D3.js and Leaflet.js** to create an interactive map displaying earthquake data from the **United States Geological Survey (USGS)**. The dataset used is retrieved from:  
-
-**[USGS Earthquake Data (Past 7 Days)](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson)**  
+This project applies **D3.js and Leaflet.js** to create an interactive map displaying earthquake data from the **United States Geological Survey (USGS)**.
 
 ## **How It Works**
 - The map is built using **Leaflet.js** and **OpenStreetMap** tiles.
